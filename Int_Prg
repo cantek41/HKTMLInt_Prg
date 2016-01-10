@@ -1,0 +1,243 @@
+1. Numaralı liste için kullanılan etiketler hangisidir?
+
+A) <ol><li>..</ol>
+
+B) <ul><li>..</ul>
+
+C) <dl><li>..</dl>
+
+D) <dt><li>..</dt>
+
+ 2. Hangisi tabloda çerçeve kalınlığını belirler?
+
+A) <table line=”1”>
+
+B) <table format=”1”>
+
+C) <table border=”1”>
+
+D) <table frame=”1”>
+
+3. Tabloya başlık eklemek için hangi etiket kullanılır?
+
+A) <hd>başlık</hd>
+
+B) <th>başlık</th>
+
+C) <ht>başlık</ht>
+
+D) <page>başlık</page>
+
+4. Aşağıda verilen link komutlarından hangisi doğrudur?
+
+A) <a img=”http://www.meb.gov.tr”>Tıklayınız<img/a>
+
+B) <href=”http://www.meb.gov.tr”>
+
+C) <a href=”http://www.meb.gov.tr”>Tıklayınız</a>
+
+D) <a link=”http://www.meb.gov.tr”>Tıklayınız</a>
+
+5. HTML nedir?
+
+A) Belgelerin içindeki metinlerin tarayıcıda (browser) nasıl görüneceğini ve işlevsel
+
+olacağını düzenleyen işaretlerdir.
+
+B) Diğer sayfaları bağlayan linkler
+
+C) Nesneyi bağlayan linkler
+
+D) XML etiketleri
+
+6. HTML etiketleri hangi karakterlerle belirtilir?
+
+A) !
+
+B) ( )
+
+C) #
+
+D) < >
+
+7. Hangisi HTML’de metin düzenlemeyi sağlayan etikettir?
+
+A) <END>
+
+B) <BEGIN>
+
+C) <TITLE>
+
+D) <FONT>
+
+8. Yazı büyüklüğünü 7 yapmak için hangi HTML etiketi kullanılır?
+
+A) <FONT NAME SIZE=”7”>
+
+B) <FONT WEIGHT=”7”>
+
+C) <FONT SIZE=”7”>
+
+D) <FONT HEIGHT=”7”>
+
+ 9. Bir HTLM belgesinde link özellikleri, başlık, anahtar sözcüklerinin ve WEB sayfası ile ilgili temel özelliklerin olduğu bölüm hangi etiketlerle sınırlandırılır?
+
+A) <BODY>
+
+B) <HEAD>
+
+C) <SCRIPT>
+
+D) <TITLE>
+
+ 10. HTML elemanlarının görüntülenmesinde bir satır aşağıya inmek için hangi etiket kullanılır?
+
+A) <BR>
+
+B) <NEWLINE>
+
+C) <BREAKNEW>
+
+D) <BL>
+
+11. Hangisi geçerli bir mail adresi bağlantısıdır?
+
+A) <link href=”mailto:megep@meb.gov.tr”>mailto:megep@meb.gov.tr</link>
+
+B) <href=”mailto:megep@meb.gov.tr”>maillerinizi bekliyoruz.
+
+C) <href=”to:megep@meb.gov.tr”>to:megep@meb.gov.tr
+
+D) <a href=”mailto:megep@meb.gov.tr”>mailto:megep@meb.gov.tr</a>
+
+12. HTML sayfasının arka zeminini sarı yapmak için hangi HTML satırı kullanılır?
+
+A) <BODY COLOR=”YELLOW”>
+
+B) <BODY BGCOLOR=”YELLOW”>
+
+C) <BODY BACKGROUND=”YELLOW”>
+
+D) <BODY SET=”YELLOW”>
+
+13. Tablo içinde yeni bir satır eklemek için hangi HTML etiketi kullanılır?
+
+A) <TH>
+
+B) <TR>
+
+C) <TD>
+
+D) <NL>
+
+14. Bir tablonun hücre rengini değiştirmek için hangi etiket kullanılır?
+
+A) <TABLE BGCOLOR=”…”>
+
+B) <TABLE BG=”…”>
+
+C) <TABLE BACKGROUND=”…”>
+
+D) <TABLE PIC=”…”>
+
+15. Tabloda aynı satırları birleştirmeyi sağlayan etiket hangisidir?
+
+A) CELLPADDING
+
+B) ROWSPAN
+
+C) CELLSPACING
+
+D) COLSPAN
+
+16. Hangisi bağlantıyı yeni bir pencerede açar?
+
+A) target=”_blank”
+
+B) target=”_parent”
+
+C) target=”_self”
+
+D)target=”_top”
+
+17. Hangisi metin düzenleme etiketlerinden değildir?
+
+A) <H4>…</H4>
+
+B) <B>…</B>
+
+C) <TR>…<TR>
+
+D) <P>…</P>
+
+18. Aşağıdakilerden hangisi listelerde kullanılan parametrelerden değildir?
+
+A) START
+
+B) FACE
+
+C) COMPACT
+
+D) TYPE
+
+ 19. Herhangi bir bilgisayara bağlanmak için karmaşık IP numaralarını akılda tutmak yerine hatırlanması ve yazılması kolay alan adlarına ne denir?
+
+A) Browser
+
+B) İnternet
+
+C) Domain
+
+D) Server
+
+20. Aşağıdakilerden hangisi arama motoru çeşitlerindendir?
+
+A) Client
+
+B) Server
+
+C) Crowler
+
+D) Browser
+
+Cevaplar Test 2:
+
+1:A
+
+2:C
+
+3:B
+
+4:C
+
+5:A
+
+6:D
+
+7:D
+
+8:C
+
+9:B
+
+10:A
+
+11:D
+
+12:B
+
+13:B
+
+14:A
+
+15:D
+
+16:A
+
+17:C
+
+18:B
+
+19:C
+
+20:C
